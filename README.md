@@ -4,8 +4,8 @@ Automated bioinformatics pipeline for NGS variant calling, genomic analysis, vis
 
 ## Overview
 This project implements an automated bioinformatics workflow for genomic variant detection, analysis, visualization, and reporting using Next-Generation Sequencing (NGS) data.
-# Dataset Information
-The analysis was performed using GRCh38 chromosome 22 reference genome data and sample NGS sequencing reads for genomic variant detection and analysis.
+## Reference Genome
+The GRCh38 chromosome 22 reference genome was used for read alignment and genomic variant detection.
 
 ## Tools and Technologies
 - Python
