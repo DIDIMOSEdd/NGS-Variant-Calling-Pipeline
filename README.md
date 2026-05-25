@@ -32,6 +32,9 @@ FASTQ → Alignment → BAM Processing → Variant Calling → Variant Filtering
 - High-confidence genomic variants detected
 - Variant classification and filtering performed
 - Visualization generated using Matplotlib
+- ## Variant Distribution Visualization
+
+![Variant Distribution](variant_distribution.png)
 - Structured variant report generated in CSV format
 
 ## Applications
